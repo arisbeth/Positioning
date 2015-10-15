@@ -1,0 +1,31 @@
+div{
+	width:200px;
+	height:200px
+}	
+
+.rojo{
+	background-color:#ee3e64;
+	position:relative;
+	left:0;
+	top:0
+	}
+
+.azul{
+	background-color:#0A8DCA;
+	position:absolute;
+	z-index:1;
+}
+
+.verde{
+	background-color:#b2d84b;
+	position:relative;
+	left:0;
+	bottom:0;
+	}
+
+.amarillo{
+	background-color:yellow;
+	position:relative;
+	right:0;
+	bottom:0;
+}
